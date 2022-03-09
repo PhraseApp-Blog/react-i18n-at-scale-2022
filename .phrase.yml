@@ -1,0 +1,12 @@
+phrase:
+  project_id: dde4bcde73e457959431995c45d2d83b
+  push:
+    sources:
+      - file: ./public/locales/<locale_name>/translation.json
+        params:
+          file_format: i18next
+  pull:
+    targets:
+      - file: ./public/locales/<locale_name>/translation.json
+        params:
+          file_format: i18next

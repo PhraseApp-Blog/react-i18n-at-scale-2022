@@ -1,0 +1,3 @@
+#!/bin/bash
+source .env
+phrase $1 -t $PHRASE_ACCESS_TOKEN
