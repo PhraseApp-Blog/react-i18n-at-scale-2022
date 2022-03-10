@@ -8,6 +8,7 @@
   "chineseTeapots": "Chinese teapots",
   "copyright": "Copyright",
   "danielGarcia": "Daniel Garcia",
+  "darkMode": "Dark mode",
   "dayOfDeadSculptures": "Mexican Day of the Dead (Día de Muertos) sculptures",
   "email": "Email",
   "facades": "Facades",
@@ -28,12 +29,11 @@
   "search": "Search",
   "searchPlaceholder": "Find creator or product",
   "specialties": "Specialties",
+  "theme": "Theme",
   "topRated": "Top Rated",
   "username": "Username",
   "wallets": "Wallets",
   "womensFashion": "Women's fashion",
   "woodenArt": "Wooden Art",
-  "woodworking": "Woodworking",
-  "theme": "Theme",
-  "darkMode": "Dark mode"
+  "woodworking": "Woodworking"
 }
